@@ -740,9 +740,9 @@ label {
 
     /* Categories Dropdown */
     .categoriesExpansion {
-        width: 90%;
-        left: 5%;
-        top: 100%;
+        width: 35%;
+        left: 36%;
+        top: 20%;
     }
 }
 
